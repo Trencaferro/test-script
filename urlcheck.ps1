@@ -105,5 +105,6 @@ if($result -ne $null){
 #tanquem la connexio a la Base de dades
 $conn.Close() 
 
+#afegit per prova de git 18/01/2016
 
 
